@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=theer1k&style=flat-square)
+![](https://komarev.com/ghpvc/?username=erikunha&style=flat-square)
 
 # Hello World
 
-<img align="right" height="180" src="https://github.com/theer1k/theer1k/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
+<img align="right" height="180" src="https://github.com/erikunha/erikunha/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
-I am Erik 👋… I am a Software Engineer with a Bachelor's degree in Information Systems and 6+ years of experience designing, developing, and optimizing web applications using Angular (versions 2 through 18), React, Next, and TypeScript. Proficient in Node.js to build RESTful APIs using Express.js, PostgreSQL, MongoDB, Docker, and Docker Compose, including setup of AWS services CodePipeline, CodeBuild, CodeDeploy, CodeCommit, WAF, CloudFront, S3, RDS, EC2, Route 53, ACM, and ELB.
+I am Erik 👋… A Software Engineer with experience designing, developing, and optimizing web applications using Angular (versions 2 through 18), React.js, Next.js, and TypeScript. Proficient in Node.js to build RESTful APIs using Express.js, PostgreSQL, MongoDB, Docker, and Docker Compose, including setup of AWS services CodePipeline, CodeBuild, CodeDeploy, CodeCommit, WAF, CloudFront, S3, RDS, EC2, Route 53, ACM, and ELB.
 
 Proven ability to collaborate with cross-functional teams to deliver high-quality user interfaces that meet WCAG accessibility standards, enhancing search engine ranking. In addition to advanced English proficiency and experience leading technical meetings besides integration discussions.
 
@@ -50,28 +50,28 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 
 - 🌱 I’m currently interested in learning more about **AWS, Terraform, and Next.js**
 - 👨‍💻 Take a look at [indianboy.com.br](https://indianboy.com.br)
-- 📝 I regularly write articles on [DEV.to](https://dev.to/theer1k)
+- 📝 I regularly write articles on [DEV.to](https://dev.to/erikunha)
 - 💬 Ask me about **software engineering or frontend technologies**
 - 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/erikhenriquealvescunha/)
 - ⚡ Fun fact **I am not from India** 🇮🇳
 
 ## GitHub stats
 
-<a align="center" target="_blank" href="https://github-readme-streak-stats.herokuapp.com/?user=theer1k&theme=cobalt2">
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=theer1k&theme=cobalt2" alt="theer1k contributions" />
+<a align="center" target="_blank" href="https://github-readme-streak-stats.herokuapp.com/?user=erikunha&theme=cobalt2">
+<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=erikunha&theme=cobalt2" alt="erikunha contributions" />
 </a>
-<a align="center" target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=theer1k&hide_progress=true&layout=pie&langs_count=10&theme=cobalt2">
-<img width="40%" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theer1k&hide_progress=true&layout=pie&langs_count=10&theme=cobalt2&hide=dart&include_all_commits=true&count_private=true" />
+<a align="center" target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=erikunha&hide_progress=true&layout=pie&langs_count=10&theme=cobalt2">
+<img width="40%" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikunha&hide_progress=true&layout=pie&langs_count=10&theme=cobalt2&hide=dart&include_all_commits=true&count_private=true" />
 </a>
-<a align="center" target="_blank" href="https://github-readme-stats.vercel.app/api?username=theer1k&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&theme=cobalt2">
-<img width="59%" align="top" alt="Stats Graph" src="https://github-readme-stats.vercel.app/api?username=theer1k&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt2" />
+<a align="center" target="_blank" href="https://github-readme-stats.vercel.app/api?username=erikunha&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&theme=cobalt2">
+<img width="59%" align="top" alt="Stats Graph" src="https://github-readme-stats.vercel.app/api?username=erikunha&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt2" />
 </a>
 <p align="center">
-<a href="https://github.com/theer1k/">
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theer1k&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
-alt="theer1k :: Top Langs by repo" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theer1k&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
-alt="theer1k :: Top Langs by commit" />
+<a href="https://github.com/erikunha/">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erikunha&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
+alt="erikunha :: Top Langs by repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erikunha&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
+alt="erikunha :: Top Langs by commit" />
 </a>
 </p>
     
@@ -131,22 +131,22 @@ alt="theer1k :: Top Langs by commit" />
 ## Connect with me
 
 <div align="left">
-<a href="https://www.youtube.com/@theer1k/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=theer1k&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Youtube logo" />
+<a href="https://www.youtube.com/@programadornagringa/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=programadornagringa&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Youtube logo" />
 </a>
-<a href="https://dev.to/theer1k/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=theer1k&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Devto logo" />
+<a href="https://dev.to/erikunha/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=erikunha&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Devto logo" />
 </a>
 <a href="https://www.linkedin.com/in/erikhenriquealvescunha/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Linkedin logo" />
 </a>
-<a href="https://www.hackerrank.com/theer1k/" target="_blank">
+<a href="https://www.hackerrank.com/erikunha/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Hackerrank logo" />
 </a>
-<a href="https://www.instagram.com/theer1k_dev/" target="_blank">
+<a href="https://www.instagram.com/programadornagringa/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
 </a>
-<a href="https://twitter.com/theer1k/" target="_blank">
+<a href="https://twitter.com/erikunha/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter logo" />
 </a>
 </div>
