@@ -90,7 +90,7 @@ alt="erikunha :: Top Langs by commit" />
 
 **Frontend Developer** \
 [**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract \
-**Technologies**: `Angular v12~v16` \
+**Technologies**: `Angular v12~v19` \
 **Projects**: Internal
 
 [<img align="left" height="94px" width="94px" alt="Grupo SBF" src="./assets/images/grupo_sbf_s_a__logo.jpeg" />](https://ri.gruposbf.com.br/)
