@@ -49,7 +49,7 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 ## About me
 
 - 🌱 I’m currently interested in learning more about **AWS, Angular, and C# .NET**
-- 👨‍💻 Take a look at [https://www.erikunha.dev/](https://www.erikunha.dev/)
+- 👨‍💻 Take a look at [https://www.erikunha.dev/](https://erikunha.dev/)
 - 📝 I regularly write articles on [DEV.to](https://dev.to/erikunha)
 - 💬 Ask me about **software engineering or frontend technologies**
 - 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/erikhenriquealvescunha/)
